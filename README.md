@@ -96,4 +96,3 @@ The dataset consists of **10,000 rows and 10 columns**:
 This project provided a detailed **EDA of the car price dataset**, uncovering patterns related to **brand, mileage, ownership, fuel type, and transmission**. It highlighted how various features influence car prices, providing valuable insights for buyers, sellers, and market analysts.
 
 
-Would you like me to **add GitHub-friendly code snippets and example plots** inside the README (so it looks more attractive on GitHub), or keep it clean and text-only?
